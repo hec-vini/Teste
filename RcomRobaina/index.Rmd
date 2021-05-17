@@ -1,6 +1,0 @@
----
-title: "teste1705"
-description: |
-  Teste1705 - parte 2
-site: distill::distill_website
----

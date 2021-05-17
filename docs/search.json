@@ -6,16 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-13T15:15:36-03:00"
+      "last_modified": "2021-05-17T15:16:52-03:00"
     },
     {
       "path": "index.html",
-      "title": "aulaR",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "title": "teste1705",
+      "description": "Teste1705 - parte 2\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-13T15:15:37-03:00"
+      "last_modified": "2021-05-17T15:16:54-03:00"
+    },
+    {
+      "path": "Untitled.html",
+      "title": "Blog1705-2-2",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-05-17T15:16:57-03:00"
     }
   ],
-  "collections": []
+  "collections": ["posts/posts.json"]
 }
