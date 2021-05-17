@@ -1,0 +1,14 @@
+name: "Lixo25"
+title: "teste1705"
+description: |
+  teste1705
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: 'Blog1705-2-2'
+      href: blog.html
+output: distill::distill_article
